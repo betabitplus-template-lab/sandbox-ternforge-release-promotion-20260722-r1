@@ -1,0 +1,5 @@
+changelog:
+  exclude:
+    labels:
+      - release-preparation
+      - promotion
