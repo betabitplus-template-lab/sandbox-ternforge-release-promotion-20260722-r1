@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/betabitplus-template-lab/sandbox-ternforge-release-promotion-20260722-r1/compare/v0.3.0...v0.4.0) (2026-07-22)
+
+
+### Features
+
+* add third feature ([#6](https://github.com/betabitplus-template-lab/sandbox-ternforge-release-promotion-20260722-r1/issues/6)) ([ae85edd](https://github.com/betabitplus-template-lab/sandbox-ternforge-release-promotion-20260722-r1/commit/ae85edd91cacf11c1328c46a725bc5e6f41c2df8))
+
 ## [0.3.0](https://github.com/betabitplus-template-lab/sandbox-ternforge-release-promotion-20260722-r1/compare/v0.2.0...v0.3.0) (2026-07-22)
 
 
