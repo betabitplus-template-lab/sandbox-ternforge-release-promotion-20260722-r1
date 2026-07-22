@@ -1,0 +1,6 @@
+{
+  "release-type": "simple",
+  "include-v-in-tag": true,
+  "include-component-in-tag": false,
+  "packages": {".": {"component": "release-promotion-lab", "release-type": "simple"}}
+}
